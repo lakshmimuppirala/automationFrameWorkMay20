@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33888" started-at="2021-05-20T15:54:33 CDT" finished-at="2021-05-20T15:55:07 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33888" started-at="2021-05-20T15:54:33 CDT" finished-at="2021-05-20T15:55:07 CDT">
+      <class name="com.qa.linkedin.test.SearchDataDrivenTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.linkedin.test.SearchDataDrivenTest@1060b431]" name="setUp" is-config="true" duration-ms="2453" started-at="2021-05-20T15:54:31 CDT" finished-at="2021-05-20T15:54:33 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.linkedin.test.SearchDataDrivenTest@1060b431]" name="beforeClass" is-config="true" duration-ms="5531" started-at="2021-05-20T15:54:33 CDT" finished-at="2021-05-20T15:54:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="SearchDataDrivenTest(java.lang.String)[pri:0, instance:com.qa.linkedin.test.SearchDataDrivenTest@1060b431]" name="SearchDataDrivenTest" duration-ms="6793" started-at="2021-05-20T15:54:39 CDT" data-provider="getData" finished-at="2021-05-20T15:54:46 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchDataDrivenTest -->
+        <test-method status="PASS" signature="SearchDataDrivenTest(java.lang.String)[pri:0, instance:com.qa.linkedin.test.SearchDataDrivenTest@1060b431]" name="SearchDataDrivenTest" duration-ms="6393" started-at="2021-05-20T15:54:46 CDT" data-provider="getData" finished-at="2021-05-20T15:54:52 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchDataDrivenTest -->
+        <test-method status="PASS" signature="SearchDataDrivenTest(java.lang.String)[pri:0, instance:com.qa.linkedin.test.SearchDataDrivenTest@1060b431]" name="SearchDataDrivenTest" duration-ms="7005" started-at="2021-05-20T15:54:52 CDT" data-provider="getData" finished-at="2021-05-20T15:54:59 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SriLakshmi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchDataDrivenTest -->
+        <test-method status="PASS" signature="SearchDataDrivenTest(java.lang.String)[pri:0, instance:com.qa.linkedin.test.SearchDataDrivenTest@1060b431]" name="SearchDataDrivenTest" duration-ms="7419" started-at="2021-05-20T15:54:59 CDT" data-provider="getData" finished-at="2021-05-20T15:55:07 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Venkat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchDataDrivenTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.linkedin.test.SearchDataDrivenTest@1060b431]" name="afterClass" is-config="true" duration-ms="377" started-at="2021-05-20T15:55:07 CDT" finished-at="2021-05-20T15:55:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.linkedin.test.SearchDataDrivenTest@1060b431]" name="tearDown" is-config="true" duration-ms="734" started-at="2021-05-20T15:55:07 CDT" finished-at="2021-05-20T15:55:08 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.linkedin.test.SearchDataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
